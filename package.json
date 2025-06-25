@@ -1,0 +1,15 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "start the backend learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backedn"
+  ],
+  "author": "amit",
+  "license": "ISC"
+}
